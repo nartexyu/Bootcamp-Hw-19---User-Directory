@@ -27,4 +27,4 @@ If you have any questions, message me on Github!
 GitHub: https://github.com/nartexyu
 
 ## Link
- https://fast-sierra-17378.herokuapp.com/
+https://nartexyu.github.io/User-Directory/
